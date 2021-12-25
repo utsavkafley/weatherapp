@@ -20,7 +20,7 @@ export default function Home() {
         </h1>
         <h1 className={styles.title}>
           <Link href="/forecast/fourday">
-            <p><a>Four-day</a> Weather</p>
+            <p><a>4-day</a> Weather</p>
           </Link>
         </h1>
       </main>

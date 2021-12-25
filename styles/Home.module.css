@@ -10,6 +10,10 @@
   color:#333333;
 }
 
+.main p{
+  margin: 0px 0px;
+}
+
 .footer {
   display: flex;
   flex: 1;
@@ -88,8 +92,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #4fa1ff;
+  border-color: #4fa1ff;
 }
 
 .card h2 {
@@ -103,8 +107,8 @@
   line-height: 1.5;
 }
 
-.logo {
-  height: 3.5em;
+.logo { /* This is the footer logo */ 
+  height: 3.2em;
   margin-left: 0.5rem;
 }
 
