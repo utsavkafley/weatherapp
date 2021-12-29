@@ -33,7 +33,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/openweather.png" alt="Vercel Logo" width={84} height={38} />
+            <Image src="/openweather.png" alt="Open Weather Map logo" width={84} height={38} />
           </span>
         </a>
       </footer>
